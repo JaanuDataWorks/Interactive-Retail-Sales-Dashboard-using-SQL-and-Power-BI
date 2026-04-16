@@ -10,17 +10,17 @@ The objective is to transform raw transactional data into meaningful insights fo
 
 ## 🎯 Business Objective
 
--To evaluate retail performance and identify growth opportunities by analyzing.
+- To evaluate retail performance and identify growth opportunities by analyzing
 
--Sales & Profit by Category.
+- Sales & Profit by Category
 
--Top Performing Cities.
+- Top Performing Cities
 
--Product-level Profitability.
+- Product-level Profitability
 
--Sales Trends Over Time.
+- Sales Trends Over Time
 
--Category-wise Performance.
+- Category-wise Performance
 
 ## 📊 Key Metrics
 Total Sales: 2.30M
