@@ -7,12 +7,12 @@ The dashboard analyzes retail data from 2014–2017 to provide insights into sal
 The objective is to transform raw transactional data into meaningful insights for business decision-making.
 
 ## 🎯 Business Objective
--To evaluate retail performance and identify growth opportunities by analyzing:
--Sales & Profit by Category
--Top Performing Cities
--Product-level Profitability
--Sales Trends Over Time
--Category-wise Performance
+-To evaluate retail performance and identify growth opportunities by analyzing.
+-Sales & Profit by Category.
+-Top Performing Cities.
+-Product-level Profitability.
+-Sales Trends Over Time.
+-Category-wise Performance.
 
 ## 📊 Key Metrics
 Total Sales: 2.30M
