@@ -57,7 +57,7 @@ The objective is to transform raw transactional data into meaningful insights fo
 - DAX (KPI Measures & Calculations)
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](retail dashboard.png)
 
 ## 🚀 Project Outcomes
 
