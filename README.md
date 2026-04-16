@@ -58,7 +58,7 @@ The objective is to transform raw transactional data into meaningful insights fo
 
 ## 📷 Dashboard Preview
 
-[View Dashboard](https://github.com/JaanuDataWorks/Gobal-Store-Dashboard/blob/main/dashboard_Screenshot.png.png)
+[View Dashboard](https://github.com/JaanuDataWorks/Interactive-Retail-Sales-Dashboard-using-SQL-and-Power-BI/blob/main/retail%20dashboard.png)
 ---
 
 
